@@ -1,0 +1,23 @@
+
+
+{
+  "name": "My boilerplate EDU",
+  "short_name": "My boilerplate EDU",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#000",
+  "description": "My Boilerplate for start project speed.",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#000"
+}
