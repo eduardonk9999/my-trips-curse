@@ -1,8 +1,8 @@
 
 
 {
-  "name": "My boilerplate EDU",
-  "short_name": "My boilerplate EDU",
+  "name": "My Trips",
+  "short_name": "My Trips",
   "icons": [
     {
       "src": "/img/icon-192.png",
@@ -16,7 +16,7 @@
     }
   ],
   "background_color": "#000",
-  "description": "My Boilerplate for start project speed.",
+  "description": "My Trips",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#000"
